@@ -1,5 +1,7 @@
 var assert  = require("chai").assert;
 var calculadora = require("../app/calculadora_suma");
+const myModule = require('../app/calculadora_suma');
+
 
 describe("Calculadora de dos numeros: ", () => {
 	describe("Checkeo de la funcion sumaNumeros: ", () => {
