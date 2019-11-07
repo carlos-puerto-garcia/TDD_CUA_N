@@ -3,7 +3,7 @@ var calculadora = require("../app/calculadora_suma");
 const myModule = require('../app/calculadora_suma');
 
 
-
+//Daniel Ballesteros Bedoya
 describe("Calculadora de dos numeros: ", () => {
 	describe("Checkeo de la funcion sumaNumeros: ", () => {
 		it("Verificación de la suma usando: assert.typeOf(valor,'valor'): ", () => {
@@ -12,8 +12,3 @@ describe("Calculadora de dos numeros: ", () => {
 		});		
 	});		
 });
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 1c17a11f155c8e10e215a53d0f5c37f95b0c502d
