@@ -1,6 +1,7 @@
-var assert  = require("chai").assert;
+﻿var assert  = require("chai").assert;
 var calculadora = require("../app/calculadora_suma");
 const myModule = require('../app/calculadora_suma');
+
 
 
 describe("Calculadora de dos numeros: ", () => {
@@ -11,3 +12,8 @@ describe("Calculadora de dos numeros: ", () => {
 		});		
 	});		
 });
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1c17a11f155c8e10e215a53d0f5c37f95b0c502d
