@@ -1,0 +1,16 @@
+{
+  "name": "tdd_frank",
+  "version": "1.0.0",
+  "description": "Electiva3_TDD",
+  "main": "indexTDD.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Electiva3",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chain": "^0.1.3",
+    "mocha": "^6.2.2"
+  }
+}
